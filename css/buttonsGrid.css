@@ -1,0 +1,10 @@
+.btnContainer {
+  width: 100%;
+}
+
+.btnContainer > .btnStyle {
+  width: 30%;
+  height: 48px;
+  font-size: 24px;
+  background-color: chartreuse;
+}
