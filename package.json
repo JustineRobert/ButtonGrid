@@ -1,0 +1,19 @@
+{
+  "name": "buttons",
+  "version": "1.0.0",
+  "description": "Playing with Button Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustineRobert/TITechAfricaButtonGrid.git"
+  },
+  "author": "Justine Robert Igune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustineRobert/TITechAfricaButtonGrid/issues"
+  },
+  "homepage": "https://github.com/JustineRobert/TITechAfricaButtonGrid#readme"
+}
